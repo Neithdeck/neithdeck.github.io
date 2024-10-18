@@ -67,8 +67,20 @@ height: auto;
     width: 100%;
 }
 .center-text {
-text-align: center;
+    text-align: center;
 }
 .highlight {
     color: #ca5379;
+}
+
+td, th, tr, table {
+    border: 0 !important;
+    border-spacing:0 !important;
+}
+.founder {
+    margin-bottom: 100px;
+}
+.founder img{
+    float: left;
+    margin-right: 40px;
 }
