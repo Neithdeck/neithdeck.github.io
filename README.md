@@ -1,2 +1,2 @@
-# neithdeck.github.io
-One page website for Neithdeck.
+# Coming soon
+When AI reinvents PowerPoint creation from data.
