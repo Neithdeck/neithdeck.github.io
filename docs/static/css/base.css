@@ -1,0 +1,74 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    animation: fadeIn 1s ease-in;
+    background-color: #edf0f3;
+    /*color: #000000;*/
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    padding: 20px 0;
+}
+.team-button {
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: 20px auto;
+    background-color: #cc527a;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.navbar {
+    background-color: #333;
+    /*background-color: #0D3B66;*/
+    overflow: hidden;
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: center;
+    height: 70px;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    /*background-color: #ddd;*/
+    /*color: black;*/
+    color: #f3ccbc;
+    background-color: #ca5379;
+}
+.logo {
+display: block;
+height: auto;
+}
+.logo-nit-1 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    /*width: 100px;*/
+    height: 70px;
+    margin-top: 8px;
+}
+
+.logo-nit-2 {
+    margin-right: auto;
+    margin-left: 0;
+    width: 100%;
+}
+.center-text {
+text-align: center;
+}
+.highlight {
+    color: #ca5379;
+}
